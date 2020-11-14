@@ -23,7 +23,7 @@ seja, embarcação atracou, foi para área de fundeio, por exemplo, e voltou par
 realizando nova atracação. O campo contém valores da área do porto, berço, cabeço e
 data/hora da reatracação.</li>
 <li><strong>Bandeira da Embarcação:</strong> representa o país em que a embarcação está registrada
-<li><strong>Área de Navegação: tipo de navegação realizada pela embarcação (Ex:
+<li><strong>Área de Navegação:</strong>  tipo de navegação realizada pela embarcação (Ex:
 EXPORTAÇÃO/CABOTAGEM, EXPORTAÇÃO/LONGO CURSO, IMPORT/EXPORT/CABOTAGEM,
 IMPORTAÇÃO/LONGO CURSO, INTERIOR etc)</li>
 <li><strong>Finalidade da Embarcação:</strong> característica da embarcação, destinando-se à sua finalidade. (Ex:
