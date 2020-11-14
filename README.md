@@ -57,8 +57,8 @@ Interior)</li>
 <li><strong>Porto de origem da mercadoria:</strong>  porto de carregamento da carga, sendo formado pelo código
 bitrigrama (2 primeiros dígitos: código do país; 3 últimos dígitos: identifica o porto), mais seu
 nome</li>
-<li><strong>País de destino da mercadoria: país de destino da carga</li>
-<li><strong>Porto de destino da mercadoria: porto de destino da carga, sendo formado pelo código
+<li><strong>País de destino da mercadoria:</strong> país de destino da carga</li>
+<li><strong>Porto de destino da mercadoria:</strong> porto de destino da carga, sendo formado pelo código
 bitrigrama (2 primeiros dígitos: código do país; 3 últimos dígitos: identifica o porto), mais seu
 nome</li>
 <li><strong>País de procedência da carga:</strong> país de carregamento da carga</li>
